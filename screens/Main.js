@@ -178,8 +178,8 @@ const Main = () => {
             </TouchableOpacity>
             <TouchableOpacity>
               <Image
-                source={require('../assets/photos/avatar.png')}
-                style={{ marginLeft: 15 }}
+                source={require('../assets/icons/logo_2.png')}
+                style={{ marginLeft: 15, width: 40, height: 40 }}
               />
             </TouchableOpacity>
           </View>
